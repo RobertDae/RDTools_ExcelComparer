@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Compare_ExcelSheets": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\ZKM\\ExcelComparer\\Datei1.xlsx C:\\ZKM\\ExcelComparer\\Datei2.xlsx C:\\ZKM\\ExcelComparer\\DiffResults.xlsx"
+    }
+  }
+}
